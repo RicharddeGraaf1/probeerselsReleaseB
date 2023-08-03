@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb" 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-transport.xsd">
+   <idLevering>RdG_1_validatieCheck_ozondingopdracht_O_2023080212_5223707_1</idLevering>
+   <idBevoegdGezag>00000001002564440000</idBevoegdGezag>
+   <idAanleveraar>00000003560458830000</idAanleveraar>
+   <publicatie>publicatie.xml</publicatie>
+   <datumBekendmaking>2023-08-03</datumBekendmaking>
+</validatieOpdracht>
