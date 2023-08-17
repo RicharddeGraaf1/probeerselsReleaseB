@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="2.0.0-rc"
-   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0"   
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_2</data:FRBRWork>
@@ -51,7 +51,7 @@
             <data:Tijdstempel>
                <data:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</data:doel>
                <data:soortTijdstempel>juridischWerkendVanaf</data:soortTijdstempel>
-               <data:datum>2023-03-01</data:datum>
+               <data:datum>2023-01-02</data:datum>
                <data:eId>art_besluit2</data:eId>
             </data:Tijdstempel>
          </data:Tijdstempels>
@@ -77,7 +77,7 @@
                   <tekst:Nummer>II</tekst:Nummer>
                </tekst:Kop>
                <tekst:Inhoud>
-                  <tekst:Al>Dit besluit treedt in werking per 01-03-2023</tekst:Al>
+                  <tekst:Al>Dit besluit treedt in werking per 02-01-2023</tekst:Al>
                </tekst:Inhoud>
             </tekst:Artikel>
          </tekst:Lichaam>
