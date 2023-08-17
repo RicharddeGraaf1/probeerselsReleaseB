@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="2.0.0-rc"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_2</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_2/nld@2023-08-03;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-07;2</informatieobjectRef>
+         </informatieobjectRefs>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <officieleTitel>Officiele titel van de aanlevering</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2023-08-03</bekendOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2023-08-03</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <gemaaktOp>2023-08-07T09:03:00Z</gemaaktOp>
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</instrumentVersie>
+               <eId>art_besluit1</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-07;2</instrumentVersie>
+               <eId>!abc#cmp_ebc1__content_1__ref_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2023-01-02</datum>
+               <eId>art_besluit2</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <tekst:BesluitCompact xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+            <tekst:Al>Officiele titel van de aanlevering</tekst:Al>
+         </tekst:RegelingOpschrift>
+         <tekst:Aanhef eId="formula_1" wId="formula_1">
+            <tekst:Al>Aanhef van het besluit</tekst:Al>
+         </tekst:Aanhef>
+         <tekst:Lichaam eId="body" wId="body">
+            <tekst:WijzigArtikel eId="art_besluit1" wId="gm0363_1__art_besluit1">
+               <tekst:Kop>
+                  <tekst:Label>Artikel</tekst:Label>
+                  <tekst:Nummer>I</tekst:Nummer>
+               </tekst:Kop>
+               <tekst:Wat>Wijzigingen zoals opgenomen in <tekst:IntRef ref="cmp_besluit">Bijlage A</tekst:IntRef> worden vastgesteld.</tekst:Wat>
+            </tekst:WijzigArtikel>
+            <tekst:Artikel eId="art_besluit2" wId="gm0363_1__art_besluit2">
+               <tekst:Kop>
+                  <tekst:Label>Artikel</tekst:Label>
+                  <tekst:Nummer>II</tekst:Nummer>
+               </tekst:Kop>
+               <tekst:Inhoud>
+                  <tekst:Al>Dit besluit treedt in werking per 02-01-2023</tekst:Al>
+               </tekst:Inhoud>
+            </tekst:Artikel>
+         </tekst:Lichaam>
+         <tekst:Sluiting eId="formula_2" wId="formula_2">
+            <tekst:Al>Sluiting van het besluit</tekst:Al>
+            <tekst:Ondertekening>
+               <tekst:Al>Ondertekening van het besluit</tekst:Al>
+            </tekst:Ondertekening>
+         </tekst:Sluiting>
+         <tekst:WijzigBijlage eId="cmp_besluit" wId="gm0363_1__cmp_besluit">
+            <tekst:Kop>
+               <tekst:Label>Bijlage</tekst:Label>
+               <tekst:Nummer>A</tekst:Nummer>
+               <tekst:Opschrift>Bijlage bij artikel I</tekst:Opschrift>
+            </tekst:Kop>
+            <tekst:RegelingMutatie componentnaam="abc" was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1" wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2">
+               <tekst:VoegToe positie="volgtOp" context="gm0363_1__chp_1__art_1">
+                  <tekst:Artikel wId="gm0363_1__chp_1__art_2" eId="chp_1__art_2">
+                     <tekst:Kop>
+                        <tekst:Label>Artikel</tekst:Label>
+                        <tekst:Nummer>2</tekst:Nummer>
+                        <tekst:Opschrift>Artikel 2</tekst:Opschrift>
+                     </tekst:Kop>
+                     <tekst:Inhoud>
+                        <tekst:Al>Inhoud van artikel 2 binnen hoofdstuk 1 binnen lichaam</tekst:Al>
+                     </tekst:Inhoud>
+                  </tekst:Artikel>
+               </tekst:VoegToe>
+               <tekst:Vervang wat="gm0363_1__cmp_ebc1__content_1">
+                  <tekst:Divisietekst eId="cmp_ebc1__content_1" wId="gm0363_1__cmp_ebc1__content_1">
+                     <tekst:Inhoud>
+                        <tekst:Al>Het volgende informatie-object wordt <tekst:VerwijderdeTekst>toegevoegd</tekst:VerwijderdeTekst> <tekst:NieuweTekst>gewijzigd</tekst:NieuweTekst>:</tekst:Al>
+                        <tekst:Al>Informatie-object 
+                           <tekst:NieuweTekst><tekst:ExtIoRef eId="cmp_ebc1__content_1__ref_1"
+                              wId="gm0363_1__cmp_ebc1__content_1__ref_1"
+                              ref="/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-07;2">/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-07;2</tekst:ExtIoRef></tekst:NieuweTekst>
+                        </tekst:Al>
+                     </tekst:Inhoud>
+                  </tekst:Divisietekst></tekst:Vervang>
+            </tekst:RegelingMutatie>
+         </tekst:WijzigBijlage>
+      </tekst:BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0363/2023/R_2023080315_2919671</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <officieleTitel>ValidatieCheck 2023 06 22</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

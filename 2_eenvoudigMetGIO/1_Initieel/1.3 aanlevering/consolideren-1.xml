@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbba:AanleveringInformatieObject xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                                   schemaversie="1.2.0">
+   <lvbba:InformatieObjectVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-consolideren-1</data:FRBRWork>
+         <data:FRBRExpression>/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-consolideren-1/nld@2023-08-03;1</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_010</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <data:InformatieObjectVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:heeftGeboorteregeling>/akn/nl/act/gm0363/2023/R_2023080315_2919671</data:heeftGeboorteregeling>
+         <data:heeftBestanden>
+            <data:heeftBestand>
+               <data:Bestand>
+                  <data:bestandsnaam>consolideren-1.pdf</data:bestandsnaam>
+                  <data:hash>91fd58751c4f1daab4377b5b02fdd417e5f789bbe5507eb4ea2d3d625710a497d51bf6b1bbf27788f014b60382b920d82fb11dbb6de4a150d711ebc8617b350a</data:hash>
+               </data:Bestand>
+            </data:heeftBestand>
+         </data:heeftBestanden>
+      </data:InformatieObjectVersieMetadata>
+      <data:InformatieObjectMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:eindverantwoordelijke>/tooi/id/gemeente/gm0363</data:eindverantwoordelijke>
+         <data:maker>/tooi/id/gemeente/gm0363</data:maker>
+         <data:alternatieveTitels>
+            <data:alternatieveTitel>alternatieve-titel IO consolideren-1</data:alternatieveTitel>
+         </data:alternatieveTitels>
+         <data:naamInformatieObject>naam IO consolideren-1</data:naamInformatieObject>
+         <data:officieleTitel>/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-consolideren-1</data:officieleTitel>
+         <data:publicatieinstructie>TeConsolideren</data:publicatieinstructie>
+         <data:formaatInformatieobject>/join/id/stop/informatieobject/doc_001</data:formaatInformatieobject>
+      </data:InformatieObjectMetadata>
+   </lvbba:InformatieObjectVersie>
+</lvbba:AanleveringInformatieObject>

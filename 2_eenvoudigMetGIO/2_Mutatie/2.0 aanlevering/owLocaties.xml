@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+   xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+   xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+   xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+   xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+   xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+   xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+   xmlns:p="http://www.geostandaarden.nl/imow/pons"
+   xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+   xmlns:r="http://www.geostandaarden.nl/imow/regels"
+   xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+   xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+   xmlns:op="http://www.geostandaarden.nl/imow/opobject"
+   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+      <sl:dataset>Voorbeeld-dataset</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Voorbeeld-gebied</sl:gebied>
+         <sl:leveringsId>ID-IMOW-2023080315-2919671-1</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied xmlns:l="http://www.geostandaarden.nl/imow/locatie">
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-gm0363.gebied.70b7906929a34aee87e6d2e2c4c01085</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  xlink:href="70b79069-29a3-4aee-87e6-d2e2c4c01085"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied xmlns:l="http://www.geostandaarden.nl/imow/locatie">
+               <l:identificatie>nl.imow-gm0363.gebied.73e4c6c71ce54a069f95532ea0b5b252</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xmlns:xlink="http://www.w3.org/1999/xlink"
+                     xlink:href="73e4c6c7-1ce5-4a06-9f95-532ea0b5b252"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied xmlns:l="http://www.geostandaarden.nl/imow/locatie">
+               <l:identificatie>nl.imow-gm0363.gebied.93ab14b503e1490b8ce4dfb8f609e490</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xmlns:xlink="http://www.w3.org/1999/xlink"
+                     xlink:href="93ab14b5-03e1-490b-8ce4-dfb8f609e490"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied xmlns:l="http://www.geostandaarden.nl/imow/locatie">
+               <l:identificatie>nl.imow-gm0363.gebied.e38b8747090e49039e77507afbe3ff3f</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xmlns:xlink="http://www.w3.org/1999/xlink"
+                     xlink:href="e38b8747-090e-4903-9e77-507afbe3ff3f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep xmlns:l="http://www.geostandaarden.nl/imow/locatie">
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.R202308031529196711</l:identificatie>
+               <l:noemer>Voorbeeld-gebied-R202308031529196711</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.73e4c6c71ce54a069f95532ea0b5b252"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.93ab14b503e1490b8ce4dfb8f609e490"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.e38b8747090e49039e77507afbe3ff3f"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
