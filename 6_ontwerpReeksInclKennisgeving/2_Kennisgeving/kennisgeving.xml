@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbba:AanleveringKennisgeving xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   schemaversie="1.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
+   <lvbba:KennisgevingVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/akn/nl/doc/gm9920/2023/K_2023081815_2602968_2</data:FRBRWork>
+         <data:FRBRExpression>/akn/nl/doc/gm9920/2023/K_2023081815_2602968_2/nld@2023-08-18;2</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_023</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <data:KennisgevingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <!--backwards compatibility!-->
+<!--         <data:formatenKennisgeving>
+            <data:formaatKennisgeving>Procedureverloopmutatie</data:formaatKennisgeving>
+            <data:formaatKennisgeving>Verwijzing</data:formaatKennisgeving>
+         </data:formatenKennisgeving>
+         <data:soortKennisgeving>/join/id/stop/soortkennisgeving_002</data:soortKennisgeving>--><!--optioneel in 1.3, maar laat 'm lekker weg, dan testen we backwards compatibility het meest.-->
+         <data:eindverantwoordelijke>/tooi/id/gemeente/gm9920</data:eindverantwoordelijke>
+         <data:maker>/tooi/id/gemeente/gm9920</data:maker>
+         <data:officieleTitel>Officiele titel van de aanlevering</data:officieleTitel>
+         <data:onderwerpen>
+            <data:onderwerp>/tooi/def/concept/c_9d1917e9</data:onderwerp>
+         </data:onderwerpen>
+         <data:mededelingOver>/akn/nl/bill/gm9920/2023/B_2023081815_2602968_1/nld@2023-08-18;1</data:mededelingOver>
+      </data:KennisgevingMetadata>
+      <data:Procedureverloopmutatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:bekendOp>2023-08-19</data:bekendOp>
+         <data:voegStappenToe>
+            <data:Procedurestap>
+               <data:soortStap>/join/id/stop/procedure/stap_015</data:soortStap>
+               <data:voltooidOp>2022-09-07</data:voltooidOp>
+            </data:Procedurestap>
+         </data:voegStappenToe>
+      </data:Procedureverloopmutatie>
+      <tekst:Kennisgeving xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+            <tekst:Al>Officiele titel van de aanlevering</tekst:Al>
+         </tekst:RegelingOpschrift>
+         <tekst:Lichaam eId="body" wId="body">
+            <tekst:Divisietekst eId="content_1" wId="gm9920_1__content_1">
+               <tekst:Kop>
+                  <tekst:Opschrift>Kennisgeving</tekst:Opschrift>
+               </tekst:Kop>
+               <tekst:Inhoud>
+                  <tekst:Al>Inhoud van de kennisgeving</tekst:Al>
+               </tekst:Inhoud>
+            </tekst:Divisietekst>
+         </tekst:Lichaam>
+      </tekst:Kennisgeving>
+   </lvbba:KennisgevingVersie>
+</lvbba:AanleveringKennisgeving>
