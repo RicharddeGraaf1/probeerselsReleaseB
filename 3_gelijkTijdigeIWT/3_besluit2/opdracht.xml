@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbb:publicatieOpdracht xmlns:lvbb="http://www.overheid.nl/2017/lvbb">
+   <lvbb:idLevering>RdG_3_validatieCheck_ozondingopdracht_O_2023081813_3541928_3</lvbb:idLevering>
+   <lvbb:idBevoegdGezag>00000001002564440000</lvbb:idBevoegdGezag>
+   <lvbb:idAanleveraar>00000003560458830000</lvbb:idAanleveraar>
+   <lvbb:publicatie>publicatie.xml</lvbb:publicatie>
+   <lvbb:datumBekendmaking>2023-08-19</lvbb:datumBekendmaking>
+</lvbb:publicatieOpdracht>
