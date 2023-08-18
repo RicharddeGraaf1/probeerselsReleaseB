@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0"   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="2.0.0-rc"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_2</FRBRWork>
