@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbba:AanleveringRectificatie xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   schemaversie="1.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
+   <lvbba:RectificatieVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/akn/nl/doc/gm9920/2023/K_2023081815_2602968_2</data:FRBRWork>
+         <data:FRBRExpression>/akn/nl/doc/gm9920/2023/K_2023081815_2602968_2/nld@2023-08-18;2</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_023</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <RectificatieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <officieleTitel>Rectificatie</officieleTitel>
+         <rectificeert>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_1/nld@2023-08-03;1</rectificeert>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+      </RectificatieMetadata>
+      <Rectificatie xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Officiele titel van de aanlevering</Al>
+         </RegelingOpschrift>
+         <Lichaam eId="body" wId="body">
+            <Rectificatietekst eId="content_o_1" wId="gm0363_1__content_o_1">
+               <BesluitMutatie componentnaam="hoppaa" >
+                  <Vervang wat="gm0363_1__art_besluit2">
+                     <Artikel eId="art_besluit2" wId="gm0363_1__art_besluit2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>II</Nummer>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit besluit treedt in werking per <VerwijderdeTekst>01-01-2023</VerwijderdeTekst><NieuweTekst>31-01-2023</NieuweTekst></Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Vervang>
+               </BesluitMutatie>
+            </Rectificatietekst>
+         </Lichaam>
+      </Rectificatie>
+   </lvbba:RectificatieVersie>
+</lvbba:AanleveringRectificatie>
