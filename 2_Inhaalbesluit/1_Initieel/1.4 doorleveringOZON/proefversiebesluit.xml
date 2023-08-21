@@ -1,0 +1,125 @@
+<lvbbu:UitleveringProefversieBesluit
+    xmlns:lvbbu="https://standaarden.overheid.nl/lvbb/stop/uitlevering/" schemaversie="1.2.0">
+    <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+        <data:FRBRWork>/akn/nl/bill/gm9920/2023/B_2023081021_0327450_1</data:FRBRWork>
+        <data:FRBRExpression>/akn/nl/bill/gm9920/2023/B_2023081021_0327450_1/nld@2023-08-10;1</data:FRBRExpression>
+        <data:soortWork>/join/id/stop/work_003</data:soortWork>
+    </data:ExpressionIdentificatie>
+    <data:Procedureverloop xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+        <data:bekendOp>2023-08-10</data:bekendOp>
+        <data:ontvangenOp>2023-08-10</data:ontvangenOp>
+        <data:procedurestappen>
+            <data:Procedurestap>
+                <data:soortStap>/join/id/stop/procedure/stap_003</data:soortStap>
+                <data:voltooidOp>2023-08-10</data:voltooidOp>
+            </data:Procedurestap>
+            <data:Procedurestap>
+                <data:soortStap>/join/id/stop/procedure/stap_004</data:soortStap>
+                <data:voltooidOp>2023-08-10</data:voltooidOp>
+            </data:Procedurestap>
+        </data:procedurestappen>
+    </data:Procedureverloop>
+    <lvbbu:Proefversies>
+        <consolidatie:bekendOp xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/"
+            >2023-08-10</consolidatie:bekendOp>
+        <consolidatie:ontvangenOp xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/"
+            >2023-08-10</consolidatie:ontvangenOp>
+        <lvbbu:Proefversie>
+            <consolidatie:gerealiseerdeDoelen
+                xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+                <consolidatie:doel>/join/id/proces/gm9920/2023/D_2023081021_0327450_1</consolidatie:doel>
+            </consolidatie:gerealiseerdeDoelen>
+            <consolidatie:instrumentVersie
+                xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/"
+                >/akn/nl/act/gm9920/2023/R_2023081021_0327450/nld@1</consolidatie:instrumentVersie>
+        </lvbbu:Proefversie>
+    </lvbbu:Proefversies>
+    <lvbbu:RegelingVersie schemaversie="1.2.0">
+        <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+            <data:FRBRWork>/akn/nl/act/gm9920/2023/R_2023081021_0327450</data:FRBRWork>
+            <data:FRBRExpression>/akn/nl/act/gm9920/2023/R_2023081021_0327450/nld@1</data:FRBRExpression>
+            <data:soortWork>/join/id/stop/work_019</data:soortWork>
+        </data:ExpressionIdentificatie>
+        <data:RegelingVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+            <data:versienummer>1</data:versienummer>
+        </data:RegelingVersieMetadata>
+        <tekst:RegelingCompact xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+            <tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+                <tekst:Al>Officiele titel van de regeling</tekst:Al>
+            </tekst:RegelingOpschrift>
+            <Lichaam xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" eId="body" wId="body">
+                <Hoofdstuk eId="chp_1" wId="gm9920_1__chp_1">
+                    <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Hoofdstuk 1</Opschrift>
+                    </Kop>
+                    <Artikel eId="chp_1__art_1" wId="gm9920_1__chp_1__art_1">
+                        <Kop>
+                            <Label>Artikel</Label>
+                            <Nummer>1</Nummer>
+                            <Opschrift>Artikel 1</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                            <Al>Inhoud van artikel 1 binnen hoofdstuk 1 binnen lichaam</Al>
+                        </Inhoud>
+                    </Artikel>
+                </Hoofdstuk>
+            </Lichaam>
+            <Bijlage xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" eId="cmp_ebc1"
+                wId="gm9920_1__cmp_ebc1">
+                <Kop>
+                    <Label>Bijlage</Label>
+                    <Nummer>I</Nummer>
+                    <Opschrift>Overzicht Informatieobjecten en/of Plaatjes</Opschrift>
+                </Kop>
+                <Divisietekst eId="cmp_ebc1__content_1" wId="gm9920_1__cmp_ebc1__content_1">
+                    <Inhoud>
+                        <Al>Het volgende informatie-object wordt vastgesteld:</Al>
+                        <Al>Informatie-object <ExtIoRef eId="cmp_ebc1__content_1__ref_1"
+                            ref="/join/id/regdata/gm9920/2023/IO_2023081021_0327450_1-gio-1/nld@2023-08-10;1"
+                            wId="gm9920_1__cmp_ebc1__content_1__ref_1"
+                            >/join/id/regdata/gm9920/2023/IO_2023081021_0327450_1-gio-1/nld@2023-08-10;1</ExtIoRef></Al>
+                    </Inhoud>
+                </Divisietekst>
+                <Divisietekst eId="cmp_ebc1__content_2" wId="gm9920_1__cmp_ebc1__content_2">
+                    <Inhoud>
+                        <Al>Het volgende informatie-object wordt vastgesteld:</Al>
+                        <Al>Informatie-object <ExtIoRef eId="cmp_ebc1__content_2__ref_1"
+                            ref="/join/id/regdata/gm9920/2023/IO_2023081021_0327450_1-consolideren-1/nld@2023-08-10;1"
+                            wId="gm9920_1__cmp_ebc1__content_2__ref_1"
+                            >/join/id/regdata/gm9920/2023/IO_2023081021_0327450_1-consolideren-1/nld@2023-08-10;1</ExtIoRef></Al>
+                    </Inhoud>
+                </Divisietekst>
+                <Divisietekst eId="cmp_ebc1__content_plaatjes"
+                    wId="gm9920_1__cmp_ebc1__content_plaatjes">
+                    <Inhoud>
+                        <Al>De volgende plaatjes worden gebruikt:</Al>
+                        <Figuur eId="cmp_ebc1__content_plaatjes__img_1"
+                            wId="gm9920_1__cmp_ebc1__content_plaatjes__img_1">
+                            <Illustratie breedte="70" dpi="90" formaat="image/jpeg" hoogte="21"
+                                naam="plaatje-1.jpg" uitlijning="center"/>
+                        </Figuur>
+                    </Inhoud>
+                </Divisietekst>
+            </Bijlage>
+        </tekst:RegelingCompact>
+    </lvbbu:RegelingVersie>
+    <lvbbu:AnnotatieBijProefversie>
+        <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+            <data:FRBRWork>/akn/nl/act/gm9920/2023/R_2023081021_0327450</data:FRBRWork>
+            <data:FRBRExpression>/akn/nl/act/gm9920/2023/R_2023081021_0327450/nld@1</data:FRBRExpression>
+            <data:soortWork>/join/id/stop/work_019</data:soortWork>
+        </data:ExpressionIdentificatie>
+        <data:RegelingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+            <data:eindverantwoordelijke>/tooi/id/gemeente/gm9920</data:eindverantwoordelijke>
+            <data:maker>/tooi/id/gemeente/gm9920</data:maker>
+            <data:officieleTitel>Officiele titel van de regeling</data:officieleTitel>
+            <data:onderwerpen>
+                <data:onderwerp>/tooi/def/concept/c_9d1917e9</data:onderwerp>
+            </data:onderwerpen>
+            <data:soortRegeling>/join/id/stop/regelingtype_003</data:soortRegeling>
+            <data:soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</data:soortBestuursorgaan>
+        </data:RegelingMetadata>
+    </lvbbu:AnnotatieBijProefversie>
+</lvbbu:UitleveringProefversieBesluit>
