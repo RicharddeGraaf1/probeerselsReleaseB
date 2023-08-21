@@ -7,17 +7,17 @@ Toelichting:
 
 Datums van alles:
 - 1_initieel  
-- - publicatieDatum: 2023-07-19
-- - juridischWerkendVanaf: 
+    - publicatieDatum: 2023-07-19
+    - juridischWerkendVanaf: 
 - 2_besluit1
-- - publicatieDatum: 
-- - juridischWerkendVanaf: 
+    - publicatieDatum: 
+    - juridischWerkendVanaf: 
 - 3_besluit2
-- - - publicatieDatum: 
-- - juridischWerkendVanaf: 
+    - publicatieDatum: 
+    - juridischWerkendVanaf: 
 - 4a_gelijktijdigeIWT_opTijd
-- - publicatieDatum: 
-- - juridischWerkendVanaf: 
+    - publicatieDatum: 
+    - juridischWerkendVanaf: 
 - 4b_gelijktijdigeIWT_teLaat
-- - publicatieDatum: 
-- - juridischWerkendVanaf: 
+    - publicatieDatum: 
+    - juridischWerkendVanaf: 
