@@ -25,4 +25,5 @@ Datums van alles:
     - wordtOpgestuurdOp: 2023-08-31
     - juridischWerkendVanaf: 2023-09-01
     
-  > deze is te laat omdat de publicatiedatum na de JWV van besluit1 is, vandaar dat een terugtrekking niet meer kan de JWV-datum is immers al ingegaan. Dit heeft als gevolg dat de vorige versie die van besluit 2 is.
+  > deze is te laat omdat de publicatiedatum na de JWV van besluit1 is, vandaar dat een terugtrekking niet meer kan de JWV-datum is immers al ingegaan. Dit heeft als gevolg dat de vorige versie die van besluit 2 is. Daarnaast is hier de toevoeging van artikel 2 uitgehaald, want die is al gedaan doordat de vorige versie hier regeling 2 is.
+  
