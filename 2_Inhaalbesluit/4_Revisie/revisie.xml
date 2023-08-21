@@ -4,8 +4,8 @@
    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
    <RevisieVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/rev/gm0363/2023/Rev_2023080315</FRBRWork>
-         <FRBRExpression>/akn/nl/rev/gm0363/2023/Rev_2023080315/nld@1</FRBRExpression>
+         <FRBRWork>/akn/nl/doc/gm0363/2023/Rev_2023080315</FRBRWork>
+         <FRBRExpression>/akn/nl/doc/gm0363/2023/Rev_2023080315/nld@1</FRBRExpression>
          <soortWork>/join/id/stop/work_018</soortWork> <!--is eigenlijk rectificatie, maar goed ik had niets anders qua soortwork-->
       </ExpressionIdentificatie>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
