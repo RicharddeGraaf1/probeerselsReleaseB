@@ -40,18 +40,12 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_4</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2023-01-31</datum>
+               <datum>2023-09-01</datum>
             </Tijdstempel>
          </Tijdstempels>
-         <Terugtrekkingen>
-            <TerugtrekkingRegeling>
-               <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_4</doel>
-               <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</instrumentVersie>
-            </TerugtrekkingRegeling>
-         </Terugtrekkingen>
       </ConsolidatieInformatie>
       <Tekstrevisie xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
-         <RegelingMutatie componentnaam="boeie" was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1" wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4">
+         <RegelingMutatie componentnaam="boeie" was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2" wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4">
             <VoegToe context="gm0363_1__chp_1__art_2" positie="volgtOp">
                <Artikel wId="gm0363_1__chp_1__art_3" eId="chp_1__art_3">
                   <Kop>
@@ -77,36 +71,6 @@
                         <Al>Informatie-object <ExtIoRef eId="cmp_ebc3__content_1__ref_1"
                            wId="gm0363_1__cmp_ebc3__content_1__ref_1"
                            ref="/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1/nld@2023-08-18;3">/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1/nld@2023-08-18;3</ExtIoRef>
-                        </Al>
-                     </Inhoud>
-                  </Divisietekst>
-               </Bijlage>
-            </VoegToe>
-            <VoegToe context="gm0363_1__chp_1__art_1" positie="volgtOp">
-               <Artikel wId="gm0363_1__chp_1__art_2" eId="chp_1__art_2">
-                  <Kop>
-                     <Label>Artikel</Label>
-                     <Nummer>2</Nummer>
-                     <Opschrift>Artikel 2</Opschrift>
-                  </Kop>
-                  <Inhoud>
-                     <Al>Inhoud van artikel 2 binnen hoofdstuk 1 binnen lichaam</Al>
-                  </Inhoud>
-               </Artikel>
-            </VoegToe>
-            <VoegToe positie="volgtOp" context="gm0363_1__cmp_ebc1">
-               <Bijlage eId="cmp_ebc2" wId="gm0363_1__cmp_ebc2">
-                  <Kop>
-                     <Label>Bijlage</Label>
-                     <Nummer>I</Nummer>
-                     <Opschrift>Overzicht Informatieobjecten en/of Plaatjes</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="cmp_ebc2__content_1" wId="gm0363_1__cmp_ebc2__content_1">
-                     <Inhoud>
-                        <Al>Het volgende informatie-object wordt vastgesteld:</Al>
-                        <Al>Informatie-object <ExtIoRef eId="cmp_ebc2__content_1__ref_1"
-                           wId="gm0363_1__cmp_ebc2__content_1__ref_1"
-                           ref="/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2">/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2</ExtIoRef>
                         </Al>
                      </Inhoud>
                   </Divisietekst>

@@ -10,7 +10,7 @@
       </data:ExpressionIdentificatie>
       <data:KennisgevingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <!--backwards compatibility!-->
-<!--         <data:formatenKennisgeving>
+<!--     <data:formatenKennisgeving>
             <data:formaatKennisgeving>Procedureverloopmutatie</data:formaatKennisgeving>
             <data:formaatKennisgeving>Verwijzing</data:formaatKennisgeving>
          </data:formatenKennisgeving>
