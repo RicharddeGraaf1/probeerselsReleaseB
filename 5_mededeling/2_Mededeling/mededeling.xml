@@ -6,17 +6,28 @@
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/doc/gm9920/2023/M_2023081815_2602968_2</FRBRWork>
          <FRBRExpression>/akn/nl/doc/gm9920/2023/M_2023081815_2602968_2</FRBRExpression>
-         <soortWork></soortWork>
+         <soortWork>/join/id/stop/work_025</soortWork>
       </ExpressionIdentificatie>
       <MededelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <eindverantwoordelijke></eindverantwoordelijke>
-         <maker></maker>
-         <officieleTitel></officieleTitel>
+         <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm9920</maker>
+         <officieleTitel>Mededeling verwerking uitspraak rechter</officieleTitel>
          <onderwerpen>
-            <onderwerp></onderwerp>
+            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
-         <soortMededeling></soortMededeling>
+         <soortMededeling>/join/id/stop/soortmededeling_001</soortMededeling>
+         <mededelingOver>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_1</mededelingOver>
       </MededelingMetadata>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm9920/rechterMededelingVerwerken</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</instrumentVersie>
+            </BeoogdeRegeling>
+         </BeoogdeRegelgeving>
+      </ConsolidatieInformatie>
       <Mededeling xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift wId="longTitle" eId="longTitle">
             <Al>Mededeling van testeiland</Al>
@@ -27,7 +38,22 @@
                   <Al>De rechter heeft iets geroepen over onze regeling en daar zijn we met z'n allen heel verdrietig over.</Al>
                </Inhoud>
             </Divisietekst>
+            <Mededelingtekst wId="gm9920_1__content_o_2" eId="content_o_2">
+               <RegelingMutatie componentnaam="rechter" was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1" wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2">
+                  <Vervang wat="gm0363_1__chp_1__art_1">
+                     <Artikel wId="gm0363_1__chp_1__art_1" eId="chp_1__art_1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1</Nummer>
+                           <Opschrift>Artikel 1</Opschrift>
+                        </Kop>
+                        <Inhoud><Al><VerwijderdeTekst>Inhoud van artikel 1</VerwijderdeTekst><NieuweTekst>Dit is aangepast n.a.v. wat de rechter riep</NieuweTekst> binnen hoofdstuk 1 binnen lichaam</Al></Inhoud>
+                     </Artikel>
+                  </Vervang>
+               </RegelingMutatie>
+            </Mededelingtekst>
          </Lichaam>
+
       </Mededeling>
    </MededelingVersie>
 </AanleveringMededeling>

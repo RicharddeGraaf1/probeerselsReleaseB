@@ -16,7 +16,7 @@
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</instrumentVersie>
                <gemaaktOpBasisVan>
-                  <VervlochtenVersie>
+                  <VervlochtenVersie><!--lees: deze proefversie mag je wegmikken, want die is verwerkt.-->
                      <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</instrumentVersie>
                   </VervlochtenVersie>
                </gemaaktOpBasisVan>
