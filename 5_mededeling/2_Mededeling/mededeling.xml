@@ -30,8 +30,8 @@
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/gm9920/rechterMededelingVerwerken</doel>
-               <soortTijdstempel/>
-               <datum/>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2023-01-12</datum>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
