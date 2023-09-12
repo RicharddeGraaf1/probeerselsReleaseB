@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lvbb:revisieOpdracht xmlns:lvbb="http://www.overheid.nl/2017/lvbb"
+<lvbb:publicatieOpdracht xmlns:lvbb="http://www.overheid.nl/2017/lvbb"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-transport.xsd">
    <lvbb:idLevering>RdG_revisie_4b_teLaat</lvbb:idLevering>
    <lvbb:idBevoegdGezag>00000001002564440000</lvbb:idBevoegdGezag>
    <lvbb:idAanleveraar>00000003560458830000</lvbb:idAanleveraar>
-   <lvbb:revisie>revisie.xml</lvbb:revisie>
-</lvbb:revisieOpdracht>
+   <lvbb:publicatie>RdG_4b_rectificatie.xml</lvbb:publicatie>
+   <lvbb:datumBekendmaking>2023-09-05</lvbb:datumBekendmaking>
+</lvbb:publicatieOpdracht>
 <!--beeld je in dat dit wordt opgestuurd op 2023-08-31-->
