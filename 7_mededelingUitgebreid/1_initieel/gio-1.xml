@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbba:AanleveringInformatieObject xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                                   schemaversie="1.2.0">
+   <lvbba:InformatieObjectVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/join/id/regdata/gm0363/2023/IO_2023091412_5759294_1-gio-1</data:FRBRWork>
+         <data:FRBRExpression>/join/id/regdata/gm0363/2023/IO_2023091412_5759294_1-gio-1/nld@2023-09-14;1</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_010</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <data:InformatieObjectVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:heeftGeboorteregeling>/akn/nl/act/gm0363/2023/regelingWaarRechterUitspraakOverDoet</data:heeftGeboorteregeling>
+         <data:heeftBestanden>
+            <data:heeftBestand>
+               <data:Bestand>
+                  <data:bestandsnaam>gio-1.gml</data:bestandsnaam>
+                  <data:hash>d3f85c5114474a59a994a0bb2398679e6c17455a1c507daa31bf4f8490992d16e4fd920383fe27f1da740025b6c35ea4c675819b40bbc9c76b57af88d49e3d62</data:hash>
+               </data:Bestand>
+            </data:heeftBestand>
+         </data:heeftBestanden>
+      </data:InformatieObjectVersieMetadata>
+      <data:InformatieObjectMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:eindverantwoordelijke>/tooi/id/gemeente/gm0363</data:eindverantwoordelijke>
+         <data:maker>/tooi/id/gemeente/gm0363</data:maker>
+         <data:alternatieveTitels>
+            <data:alternatieveTitel>alternatieve-titel IO gio-1</data:alternatieveTitel>
+         </data:alternatieveTitels>
+         <data:naamInformatieObject>naam IO gio-1</data:naamInformatieObject>
+         <data:officieleTitel>/join/id/regdata/gm0363/2023/IO_2023091412_5759294_1-gio-1</data:officieleTitel>
+         <data:publicatieinstructie>TeConsolideren</data:publicatieinstructie>
+         <data:formaatInformatieobject>/join/id/stop/informatieobject/gio_002</data:formaatInformatieobject>
+      </data:InformatieObjectMetadata>
+   </lvbba:InformatieObjectVersie>
+</lvbba:AanleveringInformatieObject>
