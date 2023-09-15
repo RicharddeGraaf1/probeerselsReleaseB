@@ -34,6 +34,12 @@
                <datum>2025-07-15</datum>
             </Tijdstempel>
          </Tijdstempels>
+         <Terugtrekkingen>
+            <TerugtrekkingRegeling>
+               <doel>/join/id/proces/gm0363/rechterMededelingVerwerken</doel>
+               <instrumentVersie>/akn/nl/act/gm0363/2023/regelingWaarRechterUitspraakOverDoet/nld@13</instrumentVersie>
+            </TerugtrekkingRegeling>
+         </Terugtrekkingen>
       </ConsolidatieInformatie>
       <Mededeling xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift wId="longTitle" eId="longTitle">
@@ -48,8 +54,8 @@
             </Divisietekst>
             <Mededelingtekst wId="gm0363_1__content_o_2" eId="content_o_2">
                <RegelingMutatie componentnaam="rechter"
-                  was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1"
-                  wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2">
+                  was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@12"
+                  wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@14">
                   <Vervang wat="gm0363_1__chp_1__art_2">
                      <Artikel wId="gm0363_1__chp_1__art_2" eId="chp_1__art_2">
                         <Kop>
