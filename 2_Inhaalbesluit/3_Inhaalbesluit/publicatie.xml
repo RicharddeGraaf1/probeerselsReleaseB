@@ -49,10 +49,10 @@
             </Tijdstempel>
          </Tijdstempels>
          <Terugtrekkingen>
-            <TerugtrekkingRegeling>
+            <TerugtrekkingConsolidatie>
                   <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</doel>
                <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</instrumentVersie>
-            </TerugtrekkingRegeling>
+            </TerugtrekkingConsolidatie>
          </Terugtrekkingen>
       </ConsolidatieInformatie>
       <tekst:BesluitCompact xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
