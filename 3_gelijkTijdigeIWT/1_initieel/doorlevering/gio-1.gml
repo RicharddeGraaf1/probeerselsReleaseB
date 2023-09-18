@@ -9,20 +9,20 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1/nld@2023-08-18;3</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_1-gio-1</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_1-gio-1/nld@2023-08-18;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
                   <basisgeo:Geometrie xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
                                       xmlns:gml="http://www.opengis.net/gml/3.2"
-                                      gml:id="id-2666b663-8d5d-4424-afca-162ea72cc96e-xx">
-                     <basisgeo:id>2666b663-8d5d-4424-afca-162ea72cc96e</basisgeo:id>
+                                      gml:id="id-6bff50e2-12f3-40e3-9151-060a8cfb3031-xx">
+                     <basisgeo:id>6bff50e2-12f3-40e3-9151-060a8cfb3031</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-2666b663-8d5d-4424-afca-162ea72cc96e"
+                        <gml:MultiSurface gml:id="id-6bff50e2-12f3-40e3-9151-060a8cfb3031"
                                           srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
-                              <gml:Polygon gml:id="id-2666b663-8d5d-4424-afca-162ea72cc96e-1">
+                              <gml:Polygon gml:id="id-6bff50e2-12f3-40e3-9151-060a8cfb3031-1">
                                  <gml:exterior>
                                     <gml:LinearRing>
                                        <gml:posList>95400 535208 96600 535208 96600 536400 95400 536400 95400 535208</gml:posList>

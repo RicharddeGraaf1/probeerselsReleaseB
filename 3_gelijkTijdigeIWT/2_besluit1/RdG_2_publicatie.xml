@@ -39,13 +39,6 @@
                <data:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023081813_3541928/nld@2</data:instrumentVersie>
                <data:eId>art_besluit1</data:eId>
             </data:BeoogdeRegeling>
-            <data:BeoogdInformatieobject>
-               <data:doelen>
-                  <data:doel>/join/id/proces/gm0363/2023/D_2023081813_3541928_2</data:doel>
-               </data:doelen>
-               <data:instrumentVersie>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2</data:instrumentVersie>
-               <data:eId>!main#cmp_ebc2__content_1__ref_1</data:eId>
-            </data:BeoogdInformatieobject>
          </data:BeoogdeRegelgeving>
          <data:Tijdstempels>
             <data:Tijdstempel>

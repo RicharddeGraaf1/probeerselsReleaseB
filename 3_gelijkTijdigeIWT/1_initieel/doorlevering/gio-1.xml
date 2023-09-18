@@ -3,8 +3,8 @@
                                    schemaversie="1.2.0">
    <InformatieObjectVersie>
       <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
-         <data:FRBRWork>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1</data:FRBRWork>
-         <data:FRBRExpression>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2</data:FRBRExpression>
+         <data:FRBRWork>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_1-gio-1</data:FRBRWork>
+         <data:FRBRExpression>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_1-gio-1/nld@2023-08-18;1</data:FRBRExpression>
          <data:soortWork>/join/id/stop/work_010</data:soortWork>
       </data:ExpressionIdentificatie>
       <data:InformatieObjectVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
@@ -13,7 +13,7 @@
             <data:heeftBestand>
                <data:Bestand>
                   <data:bestandsnaam>gio-1.gml</data:bestandsnaam>
-                  <data:hash>7628cd50cdc9cf154fb9e49a17293337419dab4e963b630609067df45084d4b41af3ad810a92d0f1dff675593cd1603c4d87439b7c31bfe3e6f3f75ae24ec43d</data:hash>
+                  <data:hash>ccd5627b8302579a268b91e32c9192b63c07598adf08ea14b561ac3078723eafdb8e8651e9e71ac49f45a087d4ebb8f3805cf9858637242089bb2af84c4019a2</data:hash>
                </data:Bestand>
             </data:heeftBestand>
          </data:heeftBestanden>
@@ -25,7 +25,7 @@
             <data:alternatieveTitel>alternatieve-titel IO gio-1</data:alternatieveTitel>
          </data:alternatieveTitels>
          <data:naamInformatieObject>naam IO gio-1</data:naamInformatieObject>
-         <data:officieleTitel>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1</data:officieleTitel>
+         <data:officieleTitel>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_1-gio-1</data:officieleTitel>
          <data:publicatieinstructie>TeConsolideren</data:publicatieinstructie>
          <data:formaatInformatieobject>/join/id/stop/informatieobject/gio_002</data:formaatInformatieobject>
       </data:InformatieObjectMetadata>

@@ -9,10 +9,5 @@
          <mow:objecttype>Regeltekst</mow:objecttype>
          <mow:objecttype>RegelVoorIedereen</mow:objecttype>
       </mow:Bestand>
-      <mow:Bestand>
-         <mow:naam>owLocaties.xml</mow:naam>
-         <mow:objecttype>Gebiedengroep</mow:objecttype>
-         <mow:objecttype>Gebied</mow:objecttype>
-      </mow:Bestand>
    </mow:Aanlevering>
 </mow:Aanleveringen>

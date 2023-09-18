@@ -20,16 +20,4 @@
       <lvbb:bestandsnaam>owRegeltekst.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>owLocaties.xml</lvbb:bestandsnaam>
-      <lvbb:contentType>application/xml</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>gio-1.xml</lvbb:bestandsnaam>
-      <lvbb:contentType>application/xml</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>gio-1.gml</lvbb:bestandsnaam>
-      <lvbb:contentType>application/gml+xml</lvbb:contentType>
-   </lvbb:bestand>
 </lvbb:manifest>
