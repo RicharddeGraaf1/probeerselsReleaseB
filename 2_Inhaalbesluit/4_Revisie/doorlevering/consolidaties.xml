@@ -15,7 +15,7 @@
         </consolidatie:ConsolidatieIdentificatie>
         <consolidatie:Toestanden
             xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
-            <consolidatie:aanleverType>besluit</consolidatie:aanleverType>
+            <consolidatie:aanleverType>revisie</consolidatie:aanleverType>
             <consolidatie:bekendOp>2023-08-13</consolidatie:bekendOp>
             <consolidatie:ontvangenOp>2023-08-13</consolidatie:ontvangenOp>
             <consolidatie:BekendeToestand>
@@ -46,22 +46,42 @@
                         <consolidatie:juridischWerkendOp>
                             <consolidatie:Periode>
                                 <consolidatie:vanaf>2025-02-01</consolidatie:vanaf>
+                                <consolidatie:tot>2025-03-01</consolidatie:tot>
                             </consolidatie:Periode>
                         </consolidatie:juridischWerkendOp>
                     </consolidatie:Geldigheidsperiode>
                 </consolidatie:geldigheid>
                 <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</consolidatie:instrumentVersie>
             </consolidatie:BekendeToestand>
-            <consolidatie:ToestandTerugtrekking>
+            <consolidatie:BekendeToestand>
+                <consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@4</consolidatie:FRBRExpression>
+                <consolidatie:gerealiseerdeDoelen>
+                    <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_1</consolidatie:doel>
+                    <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</consolidatie:doel>
+                    <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_4</consolidatie:doel>
+                </consolidatie:gerealiseerdeDoelen>
+                <consolidatie:geldigheid>
+                    <consolidatie:Geldigheidsperiode>
+                        <consolidatie:juridischWerkendOp>
+                            <consolidatie:Periode>
+                                <consolidatie:vanaf>2025-03-01</consolidatie:vanaf>
+                            </consolidatie:Periode>
+                        </consolidatie:juridischWerkendOp>
+                    </consolidatie:Geldigheidsperiode>
+                </consolidatie:geldigheid>
+                <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</consolidatie:instrumentVersie>
+            </consolidatie:BekendeToestand>
+            <!--ToestandTerugtrekking denk ik niet bij alle vervolgberichten, of willen we dat wel?-->
+<!--            <consolidatie:ToestandTerugtrekking>
                 <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</consolidatie:doel>
                 <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</consolidatie:instrumentVersie>
-            </consolidatie:ToestandTerugtrekking>
+            </consolidatie:ToestandTerugtrekking>-->
         </consolidatie:Toestanden>
         <lvbbu:RegelingVersie schemaversie="1.2.0">
             <data:ExpressionIdentificatie
                 xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
                 <data:FRBRWork>/akn/nl/act/gm0363/2023/R_2023080315_2919671</data:FRBRWork>
-                <data:FRBRExpression>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</data:FRBRExpression>
+                <data:FRBRExpression>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</data:FRBRExpression>
                 <data:soortWork>/join/id/stop/work_019</data:soortWork>
             </data:ExpressionIdentificatie>
             <data:RegelingVersieMetadata
@@ -130,7 +150,7 @@
             <data:ExpressionIdentificatie
                 xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
                 <data:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</data:FRBRWork>
-                <data:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@3</data:FRBRExpression>
+                <data:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@4</data:FRBRExpression>
                 <data:soortWork>/join/id/stop/work_006</data:soortWork>
             </data:ExpressionIdentificatie>
             <data:RegelingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">

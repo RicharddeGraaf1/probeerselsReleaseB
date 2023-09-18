@@ -15,10 +15,11 @@
 		</consolidatie:ConsolidatieIdentificatie>
 		<consolidatie:Toestanden
 			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
+			<consolidatie:aanleverType>besluit</consolidatie:aanleverType>
 			<consolidatie:bekendOp>2023-08-07</consolidatie:bekendOp>
 			<consolidatie:ontvangenOp>2023-08-07</consolidatie:ontvangenOp>
 			<consolidatie:BekendeToestand>
-				<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2023-01-01</consolidatie:FRBRExpression>
+				<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@1</consolidatie:FRBRExpression>
 				<consolidatie:gerealiseerdeDoelen>
 					<consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_1</consolidatie:doel>
 				</consolidatie:gerealiseerdeDoelen>
@@ -26,8 +27,8 @@
 					<consolidatie:Geldigheidsperiode>
 						<consolidatie:juridischWerkendOp>
 							<consolidatie:Periode>
-								<consolidatie:vanaf>2023-01-01</consolidatie:vanaf>
-								<consolidatie:tot>2023-03-01</consolidatie:tot>
+								<consolidatie:vanaf>2025-01-01</consolidatie:vanaf>
+								<consolidatie:tot>2025-03-01</consolidatie:tot>
 							</consolidatie:Periode>
 						</consolidatie:juridischWerkendOp>
 					</consolidatie:Geldigheidsperiode>
@@ -35,7 +36,7 @@
 				<consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1</consolidatie:instrumentVersie>
 			</consolidatie:BekendeToestand>
 			<consolidatie:BekendeToestand>
-				<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2023-01-02</consolidatie:FRBRExpression>
+				<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2</consolidatie:FRBRExpression>
 				<consolidatie:gerealiseerdeDoelen>
 					<consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_1</consolidatie:doel>
 					<consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</consolidatie:doel>
@@ -44,7 +45,7 @@
 					<consolidatie:Geldigheidsperiode>
 						<consolidatie:juridischWerkendOp>
 							<consolidatie:Periode>
-								<consolidatie:vanaf>2023-03-01</consolidatie:vanaf>
+								<consolidatie:vanaf>2025-03-01</consolidatie:vanaf>
 							</consolidatie:Periode>
 						</consolidatie:juridischWerkendOp>
 					</consolidatie:Geldigheidsperiode>
@@ -125,7 +126,7 @@
 			<data:ExpressionIdentificatie
 				xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
 				<data:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</data:FRBRWork>
-				<data:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2023-01-02</data:FRBRExpression>
+				<data:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2</data:FRBRExpression>
 				<data:soortWork>/join/id/stop/work_006</data:soortWork>
 			</data:ExpressionIdentificatie>
 			<data:RegelingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
