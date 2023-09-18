@@ -10,9 +10,6 @@
       </data:ExpressionIdentificatie>
       <data:BesluitMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <data:eindverantwoordelijke>/tooi/id/gemeente/gm0363</data:eindverantwoordelijke>
-         <data:informatieobjectRefs>
-            <data:informatieobjectRef>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2</data:informatieobjectRef>
-         </data:informatieobjectRefs>
          <data:maker>/tooi/id/gemeente/gm0363</data:maker>
          <data:officieleTitel>Officiele titel van de aanlevering</data:officieleTitel>
          <data:onderwerpen>
@@ -100,24 +97,6 @@
                         <tekst:Al>Inhoud van artikel 2 binnen hoofdstuk 1 binnen lichaam</tekst:Al>
                      </tekst:Inhoud>
                   </tekst:Artikel>
-               </tekst:VoegToe>
-               <tekst:VoegToe positie="volgtOp" context="gm0363_1__cmp_ebc1">
-                  <tekst:Bijlage eId="cmp_ebc2" wId="gm0363_1__cmp_ebc2">
-                     <tekst:Kop>
-                        <tekst:Label>Bijlage</tekst:Label>
-                        <tekst:Nummer>I</tekst:Nummer>
-                        <tekst:Opschrift>Overzicht Informatieobjecten en/of Plaatjes</tekst:Opschrift>
-                     </tekst:Kop>
-                     <tekst:Divisietekst eId="cmp_ebc2__content_1" wId="gm0363_1__cmp_ebc2__content_1">
-                        <tekst:Inhoud>
-                           <tekst:Al>Het volgende informatie-object wordt vastgesteld:</tekst:Al>
-                           <tekst:Al>Informatie-object <tekst:ExtIoRef eId="cmp_ebc2__content_1__ref_1"
-                                              wId="gm0363_1__cmp_ebc2__content_1__ref_1"
-                                              ref="/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2">/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2</tekst:ExtIoRef>
-                           </tekst:Al>
-                        </tekst:Inhoud>
-                     </tekst:Divisietekst>
-                  </tekst:Bijlage>
                </tekst:VoegToe>
             </tekst:RegelingMutatie>
          </tekst:WijzigBijlage>
