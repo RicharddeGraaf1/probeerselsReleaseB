@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-ozon/lvbb-stop-uitlevering.xsd">
 	<lvbbu:Consolidatie>
 		<consolidatie:ConsolidatieIdentificatie
-			xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
 			<consolidatie:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</consolidatie:FRBRWork>
 			<consolidatie:soortWork>/join/id/stop/work_006</consolidatie:soortWork>
 			<consolidatie:isConsolidatieVan>
@@ -14,7 +14,7 @@
 			</consolidatie:isConsolidatieVan>
 		</consolidatie:ConsolidatieIdentificatie>
 		<consolidatie:Toestanden
-			xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
 			<consolidatie:bekendOp>2023-08-07</consolidatie:bekendOp>
 			<consolidatie:ontvangenOp>2023-08-07</consolidatie:ontvangenOp>
 			<consolidatie:BekendeToestand>

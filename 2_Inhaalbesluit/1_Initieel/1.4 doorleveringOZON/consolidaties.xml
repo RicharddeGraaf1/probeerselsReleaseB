@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-ozon/lvbb-stop-uitlevering.xsd">
 	<lvbbu:Consolidatie>
 		<consolidatie:ConsolidatieIdentificatie
-			xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
 			<consolidatie:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</consolidatie:FRBRWork>
 			<consolidatie:soortWork>/join/id/stop/work_006</consolidatie:soortWork>
 			<consolidatie:isConsolidatieVan>
@@ -16,7 +16,8 @@
 		<!--Er is gekeken naar ActueleToestanden en CompleteToestanden, ons was niet duidelijk wat dit toevoegt t.o.v. de huidige werking en welke use-cases niet kunnen in de huidige werking, 
 		die straks wel gaan kunnen, vandaar geen ActueleToestanden of CompleteToestanden.--> 
 		<consolidatie:Toestanden
-			xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
+			<consolidatie:aanleverType>besluit</consolidatie:aanleverType>
 			<consolidatie:bekendOp>2023-08-03</consolidatie:bekendOp>
 			<consolidatie:ontvangenOp>2023-08-03</consolidatie:ontvangenOp>
 			<consolidatie:BekendeToestand>

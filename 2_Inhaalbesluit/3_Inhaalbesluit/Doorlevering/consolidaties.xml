@@ -3,7 +3,7 @@
     xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-ozon/lvbb-stop-uitlevering.xsd">
     <lvbbu:Consolidatie>
         <consolidatie:ConsolidatieIdentificatie
-            xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+            xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
             <consolidatie:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</consolidatie:FRBRWork>
             <consolidatie:soortWork>/join/id/stop/work_006</consolidatie:soortWork>
             <consolidatie:isConsolidatieVan>
@@ -14,7 +14,8 @@
             </consolidatie:isConsolidatieVan>
         </consolidatie:ConsolidatieIdentificatie>
         <consolidatie:Toestanden
-            xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+            xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
+            <consolidatie:aanleverType>besluit</consolidatie:aanleverType>
             <consolidatie:bekendOp>2023-08-13</consolidatie:bekendOp>
             <consolidatie:ontvangenOp>2023-08-13</consolidatie:ontvangenOp>
             <consolidatie:BekendeToestand>
@@ -51,12 +52,10 @@
                 </consolidatie:geldigheid>
                 <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</consolidatie:instrumentVersie>
             </consolidatie:BekendeToestand>
-            <consolidatie:Terugtrekkingen>
-                    <consolidatie:TerugtrekkingRegeling>
-                        <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</consolidatie:doel>
-                        <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</consolidatie:instrumentVersie>
-                    </consolidatie:TerugtrekkingRegeling>
-           </consolidatie:Terugtrekkingen>
+            <consolidatie:ToestandTerugtrekking>
+                <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</consolidatie:doel>
+                <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</consolidatie:instrumentVersie>
+            </consolidatie:ToestandTerugtrekking>
         </consolidatie:Toestanden>
         <lvbbu:RegelingVersie schemaversie="1.2.0">
             <data:ExpressionIdentificatie
