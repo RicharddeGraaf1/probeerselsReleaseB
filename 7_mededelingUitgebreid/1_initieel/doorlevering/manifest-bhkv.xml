@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+      <mow:domein>omgevingswet</mow:domein>
+      <mow:Aanlevering>
+	<mow:WorkIDRegeling>/akn/nl/act/gm0363/2023/regelingWaarRechterUitspraakOverDoet</mow:WorkIDRegeling>
+	<mow:DoelID>/join/id/proces/gm0363/2023/initieelAanlevering_doel1</mow:DoelID>
+	<mow:Bestand>
+	  <mow:naam>9a27dc53-f88f-4a51-b619-a1f537f65e9e.gml</mow:naam>
+	  <mow:objecttype>Geometrie</mow:objecttype>
+	</mow:Bestand>
+      </mow:Aanlevering>
+    </mow:Aanleveringen>

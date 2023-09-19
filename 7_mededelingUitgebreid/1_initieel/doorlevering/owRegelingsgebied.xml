@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+   <sl:standBestand xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+      <sl:dataset>Voorbeeld-dataset</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Voorbeeld-gebied</sl:gebied>
+         <sl:leveringsId>ID-IMOW-2023091412-5759294-1</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Regelingsgebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rg:Regelingsgebied xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied">
+               <rg:identificatie>nl.imow-gm0363.regelingsgebied.R202309141257592941</rg:identificatie>
+               <rg:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.R202309141257592941" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+               </rg:locatieaanduiding>
+            </rg:Regelingsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
