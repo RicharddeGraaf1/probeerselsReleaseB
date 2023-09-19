@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+   <mow:domein>omgevingswet</mow:domein>
+   <mow:Aanlevering>
+      <mow:WorkIDRegeling>/akn/nl/act/gm0363/2023/R_2023080315_2919671</mow:WorkIDRegeling>
+      <mow:DoelID>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</mow:DoelID>
+   </mow:Aanlevering>
+</mow:Aanleveringen>

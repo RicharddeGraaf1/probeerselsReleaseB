@@ -1,0 +1,137 @@
+<lvbbu:Consolidaties xmlns:lvbbu="https://standaarden.overheid.nl/lvbb/stop/uitlevering/"
+	schemaversie="1.6.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-ozon/lvbb-stop-uitlevering.xsd">
+	<lvbbu:Consolidatie>
+		<consolidatie:ConsolidatieIdentificatie
+			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
+			<consolidatie:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</consolidatie:FRBRWork>
+			<consolidatie:soortWork>/join/id/stop/work_006</consolidatie:soortWork>
+			<consolidatie:isConsolidatieVan>
+				<consolidatie:WorkIdentificatie>
+					<consolidatie:FRBRWork>/akn/nl/act/gm0363/2023/R_2023080315_2919671</consolidatie:FRBRWork>
+					<consolidatie:soortWork>/join/id/stop/work_019</consolidatie:soortWork>
+				</consolidatie:WorkIdentificatie>
+			</consolidatie:isConsolidatieVan>
+		</consolidatie:ConsolidatieIdentificatie>
+		<!--Er is gekeken naar ActueleToestanden en CompleteToestanden, ons was niet duidelijk wat dit toevoegt t.o.v. de huidige werking en welke use-cases niet kunnen in de huidige werking, 
+		die straks wel gaan kunnen, vandaar geen ActueleToestanden of CompleteToestanden.--> 
+		<consolidatie:Toestanden
+			xmlns:consolidatie="http://www.overheid.nl/2017/lvbb/consolidatie">
+			<consolidatie:aanleverType>rectificatie</consolidatie:aanleverType>
+			<consolidatie:bekendOp>2023-08-03</consolidatie:bekendOp>
+			<consolidatie:ontvangenOp>2023-08-03</consolidatie:ontvangenOp>
+			<consolidatie:BekendeToestand>
+				<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@1</consolidatie:FRBRExpression>
+				<consolidatie:gerealiseerdeDoelen>
+					<consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_1</consolidatie:doel>
+				</consolidatie:gerealiseerdeDoelen>
+				<consolidatie:geldigheid>
+					<consolidatie:Geldigheidsperiode>
+						<consolidatie:juridischWerkendOp>
+							<consolidatie:Periode>
+								<consolidatie:vanaf>2023-01-01</consolidatie:vanaf>
+								<consolidatie:tot>2023-01-31</consolidatie:tot>
+							</consolidatie:Periode>
+						</consolidatie:juridischWerkendOp>
+					</consolidatie:Geldigheidsperiode>
+				</consolidatie:geldigheid>
+				<consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1</consolidatie:instrumentVersie>
+			</consolidatie:BekendeToestand>
+			<consolidatie:BekendeToestand>
+				<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2</consolidatie:FRBRExpression>
+				<consolidatie:gerealiseerdeDoelen>
+					<consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_1</consolidatie:doel>
+					<consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</consolidatie:doel>
+				</consolidatie:gerealiseerdeDoelen>
+				<consolidatie:geldigheid>
+					<consolidatie:Geldigheidsperiode>
+						<consolidatie:juridischWerkendOp>
+							<consolidatie:Periode>
+								<consolidatie:vanaf>2023-01-31</consolidatie:vanaf>
+							</consolidatie:Periode>
+						</consolidatie:juridischWerkendOp>
+					</consolidatie:Geldigheidsperiode>
+				</consolidatie:geldigheid>
+				<consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</consolidatie:instrumentVersie>
+			</consolidatie:BekendeToestand>
+		</consolidatie:Toestanden>
+		<lvbbu:RegelingVersie schemaversie="1.2.0">
+			<data:ExpressionIdentificatie
+				xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+				<data:FRBRWork>/akn/nl/act/gm0363/2023/R_2023080315_2919671</data:FRBRWork>
+				<data:FRBRExpression>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1</data:FRBRExpression>
+				<data:soortWork>/join/id/stop/work_019</data:soortWork>
+			</data:ExpressionIdentificatie>
+			<data:RegelingVersieMetadata
+				xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+				<data:versienummer>1</data:versienummer>
+			</data:RegelingVersieMetadata>
+			<tekst:RegelingCompact xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+				<tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+					<tekst:Al>ValidatieCheck 2023 06 22</tekst:Al>
+				</tekst:RegelingOpschrift>
+				<Lichaam xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" eId="body"
+					wId="body">
+					<Hoofdstuk eId="chp_1" wId="gm0363_1__chp_1">
+						<Kop>
+							<Label>Hoofdstuk</Label>
+							<Nummer>1</Nummer>
+							<Opschrift>Hoofdstuk 1</Opschrift>
+						</Kop>
+						<Artikel eId="chp_1__art_1" wId="gm0363_1__chp_1__art_1">
+							<Kop>
+								<Label>Artikel</Label>
+								<Nummer>1</Nummer>
+								<Opschrift>Artikel 1</Opschrift>
+							</Kop>
+							<Inhoud>
+								<Al>Inhoud van artikel 1 binnen hoofdstuk 1 binnen lichaam</Al>
+							</Inhoud>
+						</Artikel>
+					</Hoofdstuk>
+				</Lichaam>
+				<Bijlage xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" eId="cmp_ebc1"
+					wId="gm0363_1__cmp_ebc1">
+					<Kop>
+						<Label>Bijlage</Label>
+						<Nummer>I</Nummer>
+						<Opschrift>Overzicht Informatieobjecten en/of Plaatjes</Opschrift>
+					</Kop>
+					<Divisietekst eId="cmp_ebc1__content_1" wId="gm0363_1__cmp_ebc1__content_1">
+						<Inhoud>
+							<Al>Het volgende informatie-object wordt vastgesteld:</Al>
+							<Al>Informatie-object <ExtIoRef eId="cmp_ebc1__content_1__ref_1"
+								wId="gm0363_1__cmp_ebc1__content_1__ref_1"
+								ref="/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-03;2">/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-03;2</ExtIoRef></Al>
+						</Inhoud>
+					</Divisietekst>
+					<Divisietekst eId="cmp_ebc1__content_2" wId="gm0363_1__cmp_ebc1__content_2">
+						<Inhoud>
+							<Al>Het volgende informatie-object wordt vastgesteld:</Al>
+							<Al>Informatie-object
+								<ExtIoRef eId="cmp_ebc1__content_2__ref_1" ref="/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-consolideren-1/nld@2023-08-03;1" wId="gm0363_1__cmp_ebc1__content_2__ref_1">/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-consolideren-1/nld@2023-08-03;1</ExtIoRef></Al>
+						</Inhoud>
+					</Divisietekst>
+				</Bijlage>
+			</tekst:RegelingCompact>
+		</lvbbu:RegelingVersie>
+		<lvbbu:AnnotatieBijToestand>
+			<data:ExpressionIdentificatie
+				xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+				<data:FRBRWork>/akn/nl/act/gemeente/2023/CVDR664273</data:FRBRWork>
+				<data:FRBRExpression>/akn/nl/act/gemeente/2023/CVDR664273/nld@2</data:FRBRExpression>
+				<data:soortWork>/join/id/stop/work_006</data:soortWork>
+			</data:ExpressionIdentificatie>
+			<data:RegelingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+				<data:eindverantwoordelijke>/tooi/id/gemeente/gm0363</data:eindverantwoordelijke>
+				<data:maker>/tooi/id/gemeente/gm0363</data:maker>
+				<data:officieleTitel>ValidatieCheck 2023 06 22</data:officieleTitel>
+				<data:onderwerpen>
+					<data:onderwerp>/tooi/def/concept/c_9d1917e9</data:onderwerp>
+				</data:onderwerpen>
+				<data:soortRegeling>/join/id/stop/regelingtype_003</data:soortRegeling>
+				<data:soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</data:soortBestuursorgaan>
+			</data:RegelingMetadata>
+		</lvbbu:AnnotatieBijToestand>
+	</lvbbu:Consolidatie>
+</lvbbu:Consolidaties>
