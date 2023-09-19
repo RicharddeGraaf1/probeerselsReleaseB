@@ -4,13 +4,13 @@
    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
    <MededelingVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/doc/gm9920/2023/M_2023081815_2602968_2</FRBRWork>
-         <FRBRExpression>/akn/nl/doc/gm9920/2023/M_2023081815_2602968_2</FRBRExpression>
+         <FRBRWork>/akn/nl/doc/gm0363/2023/M_2023081815_2602968_2</FRBRWork>
+         <FRBRExpression>/akn/nl/doc/gm0363/2023/M_2023081815_2602968_2</FRBRExpression>
          <soortWork>/join/id/stop/work_025</soortWork>
       </ExpressionIdentificatie>
       <MededelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm9920</maker>
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
          <officieleTitel>Mededeling verwerking uitspraak rechter</officieleTitel>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
@@ -22,14 +22,14 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm9920/rechterMededelingVerwerken</doel>
+                  <doel>/join/id/proces/gm0363/rechterMededelingVerwerken</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</instrumentVersie>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm9920/rechterMededelingVerwerken</doel>
+               <doel>/join/id/proces/gm0363/rechterMededelingVerwerken</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2023-01-12</datum>
             </Tijdstempel>
@@ -40,13 +40,13 @@
             <Al>Mededeling van testeiland</Al>
          </RegelingOpschrift>
          <Lichaam wId="body" eId="body">
-            <Divisietekst wId="gm9920_1__content_o_1" eId="content_o_1">
+            <Divisietekst wId="gm0363_1__content_o_1" eId="content_o_1">
                <Inhoud>
                   <Al>De rechter heeft iets geroepen over onze regeling en daar zijn we met z'n
                      allen heel verdrietig over.</Al>
                </Inhoud>
             </Divisietekst>
-            <Mededelingtekst wId="gm9920_1__content_o_2" eId="content_o_2">
+            <Mededelingtekst wId="gm0363_1__content_o_2" eId="content_o_2">
                <RegelingMutatie componentnaam="rechter"
                   was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1"
                   wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2">
