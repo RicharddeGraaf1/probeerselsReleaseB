@@ -35,10 +35,9 @@
             </Tijdstempel>
          </Tijdstempels>
          <Terugtrekkingen>
-            <TerugtrekkingRegeling>
-               <doel>/join/id/proces/gm0363/rechterMededelingVerwerken</doel>
+            <TerugtrekkingConsolidatie>
                <instrumentVersie>/akn/nl/act/gm0363/2023/regelingWaarRechterUitspraakOverDoet/nld@13</instrumentVersie>
-            </TerugtrekkingRegeling>
+            </TerugtrekkingConsolidatie>
          </Terugtrekkingen>
       </ConsolidatieInformatie>
       <Mededeling xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
