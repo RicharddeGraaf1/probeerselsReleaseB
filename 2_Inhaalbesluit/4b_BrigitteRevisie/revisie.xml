@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringRevisie xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="2.0.0-rc"
+    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/BrigitteVersie/lvbb-stop-aanlevering.xsd">
+    <RevisieVersie>
+        <Tekstrevisie xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+            <RegelingMutatie componentnaam="boeie" was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3" wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4">
+                <VoegToe positie="volgtOp" context="gm0363_1__chp_1__art_1">
+                    <Artikel wId="gm0363_1__chp_1__art_2" eId="chp_1__art_2">
+                        <Kop>
+                            <Label>Artikel</Label>
+                            <Nummer>2</Nummer>
+                            <Opschrift>Artikel 2</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                            <Al>Inhoud van artikel 2 binnen hoofdstuk 1 binnen lichaam</Al>
+                        </Inhoud>
+                    </Artikel>
+                </VoegToe>
+                <Vervang wat="gm0363_1__cmp_ebc1__content_1">
+                    <Divisietekst eId="cmp_ebc1__content_1" wId="gm0363_1__cmp_ebc1__content_1">
+                        <Inhoud>
+                            <Al>Het volgende informatie-object wordt <VerwijderdeTekst>toegevoegd</VerwijderdeTekst> <NieuweTekst>gewijzigd</NieuweTekst>:</Al>
+                            <Al>Informatie-object 
+                                <NieuweTekst><ExtIoRef eId="cmp_ebc1__content_1__ref_1"
+                                    wId="gm0363_1__cmp_ebc1__content_1__ref_1"
+                                    ref="/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-07;2">/join/id/regdata/gm0363/2023/IO_2023080315_2919671_1-gio-1/nld@2023-08-07;2</ExtIoRef></NieuweTekst>
+                            </Al>
+                        </Inhoud>
+                    </Divisietekst>
+                </Vervang>
+            </RegelingMutatie>
+        </Tekstrevisie>
+        <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/"></ConsolidatieInformatie>
+    </RevisieVersie>   
+    <RegelingVersieInformatie>
+        <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <FRBRWork>/akn/nl/act/gm0363/2023/R_2023080315_2919671</FRBRWork>
+            <FRBRExpression>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</FRBRExpression>
+            <soortWork>/join/id/stop/work_019</soortWork>
+        </ExpressionIdentificatie>
+        <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <versienummer>1</versienummer>
+        </RegelingVersieMetadata>
+        <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+            <maker>/tooi/id/gemeente/gm0363</maker>
+            <officieleTitel>ValidatieCheck 2023 06 22</officieleTitel>
+            <onderwerpen>
+                <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+            </onderwerpen>
+            <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+        </RegelingMetadata>
+    </RegelingVersieInformatie>
+</AanleveringRevisie>
+
+
