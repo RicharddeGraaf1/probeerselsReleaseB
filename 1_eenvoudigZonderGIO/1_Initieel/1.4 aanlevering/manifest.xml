@@ -2,7 +2,7 @@
 <manifest 
    xmlns="http://www.overheid.nl/2017/lvbb"    
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-transport.xsd">
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-transport.xsd">
    <bestand>
       <bestandsnaam>manifest.xml</bestandsnaam>
       <contentType>application/xml</contentType>

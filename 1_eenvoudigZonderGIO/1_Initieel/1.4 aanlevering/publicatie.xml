@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="2.0.0-rc"
-   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
    <!--xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/2.0.0-rc/lvbb-stop-aanlevering.xsd"-->
    <!--xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd"-->
    <BesluitVersie>
@@ -30,8 +30,6 @@
          </procedurestappen>
       </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <!--gemaaktOp is het enige element dat is toegevoegd in dit scenario t.o.v. 1.3.0-->
-         <gemaaktOp>2023-01-21T09:03:00Z</gemaaktOp>
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
